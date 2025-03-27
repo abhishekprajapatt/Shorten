@@ -1,6 +1,6 @@
-# Shorten - URL Shortener
+# Shorten - A high-performance URL shortener
 
-Shorten is a powerful URL shortener that allows users to create branded, trackable, and reliable short links. It provides analytics to track engagement and performance.
+Shorten is a high-performance URL shortener that generates 8-bit short links with fast redirection, analytics, and custom alias support.
 
 ## Features
 
@@ -13,7 +13,7 @@ Shorten is a powerful URL shortener that allows users to create branded, trackab
 ## Tech Stack
 
 - **Frontend**: React.js / Next.js
-- **Backend**: Node.js, Express.js
+- **Backend**: Express.js
 - **Database**: MongoDB / PostgreSQL
 - **Authentication**: JWT / OAuth
 - **Hosting**: Vercel / AWS / DigitalOcean
